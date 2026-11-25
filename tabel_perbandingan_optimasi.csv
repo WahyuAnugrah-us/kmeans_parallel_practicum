@@ -1,0 +1,6 @@
+Konfigurasi,Waktu_Awal_Detik,Waktu_Optimasi_Detik,Perubahan_Waktu_Persen,Speedup_Optimasi
+Serial (1 Proses),1.3946,1.2241,-12.2%,1.0
+Paralel (2 Proses),2.8815,1.6124,-44.0%,0.7592
+Paralel (4 Proses),3.8203,1.4476,-62.1%,0.8457
+Paralel (8 Proses),6.5562,2.8029,-57.2%,0.4367
+Paralel (12 Proses),9.5829,3.4332,-64.2%,0.3566

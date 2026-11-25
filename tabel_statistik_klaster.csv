@@ -1,0 +1,5 @@
+Cluster,Jumlah_Data,Mean_Sales,Mean_Profit,Mean_Quantity,Mean_Price
+Cluster 0,250948,250.75,35.34,2.04,45.31
+Cluster 1,251624,703.36,121.4,5.04,141.39
+Cluster 2,250436,1307.62,262.07,8.05,281.92
+Cluster 3,246992,2106.31,430.19,12.0,450.16
